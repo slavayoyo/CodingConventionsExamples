@@ -1,0 +1,8 @@
+D:\Projects\VisualStd\QuarterlyTaxCalculator\Quarterly tax calculator\bin\Debug\Quarterly tax calculator.exe.config
+D:\Projects\VisualStd\QuarterlyTaxCalculator\Quarterly tax calculator\bin\Debug\Quarterly tax calculator.exe
+D:\Projects\VisualStd\QuarterlyTaxCalculator\Quarterly tax calculator\bin\Debug\Quarterly tax calculator.pdb
+D:\Projects\VisualStd\QuarterlyTaxCalculator\Quarterly tax calculator\obj\Debug\Quarterly tax calculator.csproj.AssemblyReference.cache
+D:\Projects\VisualStd\QuarterlyTaxCalculator\Quarterly tax calculator\obj\Debug\Quarterly tax calculator.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VisualStd\QuarterlyTaxCalculator\Quarterly tax calculator\obj\Debug\Quarterly tax calculator.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStd\QuarterlyTaxCalculator\Quarterly tax calculator\obj\Debug\Quarterly tax calculator.exe
+D:\Projects\VisualStd\QuarterlyTaxCalculator\Quarterly tax calculator\obj\Debug\Quarterly tax calculator.pdb
